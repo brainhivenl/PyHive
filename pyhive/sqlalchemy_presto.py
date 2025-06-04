@@ -46,7 +46,7 @@ _type_map = {
     'double': types.Float,
     'varchar': types.String,
     'varchar(36)': types.String,
-    'timestamp': types.TIMESTAMP,
+    'timestamp': types.String,
     'date': types.DATE,
     'varbinary': types.VARBINARY,
 }
